@@ -104,6 +104,13 @@ button.at-social-btn#at-github.disabled {
 button.at-social-btn#at-github:hover {
   background: #555;
 }
+button.at-social-btn#at-vk {
+  background: #507299;
+  color: #fff;
+}
+button.at-social-btn#at-vk:hover {
+  background: #4D6992;
+}
 .at-sep {
   text-align: center;
   position: relative;

@@ -24,10 +24,6 @@
   margin-bottom: 30px;
   text-align: center;
 }
-.at-error,
-.at-result {
-  text-align: center;
-}
 .at-oauth {
   margin-top: 10px;
 }
